@@ -1,0 +1,105 @@
+/** Provider options for dropdown */
+export const PROVIDERS = ['openai', 'anthropic', 'google', 'ollama', 'ollama_cloud', 'grok'] as const
+export type Provider = (typeof PROVIDERS)[number]
+
+/** Available models per provider for dropdown (comprehensive lists) */
+export const MODELS_BY_PROVIDER: Record<string, string[]> = {
+  openai: [
+    'gpt-4o-mini',
+    'gpt-4o',
+    'gpt-4o-nano',
+    'gpt-4-turbo',
+    'gpt-4-turbo-preview',
+    'gpt-4',
+    'gpt-4-1106-preview',
+    'gpt-4-0125-preview',
+    'gpt-4.1',
+    'gpt-4.1-mini',
+    'gpt-3.5-turbo',
+    'gpt-3.5-turbo-0125',
+    'gpt-3.5-turbo-1106',
+    'o1-mini',
+    'o1',
+    'o1-preview',
+    'o3-mini',
+    'o3',
+    'o3-pro',
+    'o4-mini',
+  ],
+  anthropic: [
+    'claude-opus-4-6',
+    'claude-opus-4-5',
+    'claude-sonnet-4-5',
+    'claude-haiku-4-5',
+    'claude-3-5-sonnet-20241022',
+    'claude-3-5-haiku-20241022',
+    'claude-3-5-haiku-20240620',
+    'claude-3-opus-20240229',
+    'claude-3-sonnet-20240229',
+    'claude-3-haiku-20240307',
+  ],
+  google: [
+    'gemini-2.5-flash',
+    'gemini-2.5-pro',
+    'gemini-2.0-flash',
+    'gemini-2.0-flash-exp',
+    'gemini-2.0-flash-lite',
+    'gemini-2.0-pro-exp',
+    'gemini-2.5-flash-lite',
+    'gemini-3-pro-preview',
+    'gemini-3-flash-preview',
+    'gemini-1.5-flash',
+    'gemini-1.5-flash-8b',
+    'gemini-1.5-pro',
+    'gemini-1.5-pro-002',
+    'gemini-1.0-pro',
+    'gemini-1.0-pro-vision',
+    'gemini-exp-1206',
+    'gemma-3-2b',
+    'gemma-3-1b',
+    'gemma-3-4b',
+    'gemma-3-12b',
+    'gemma-3-27b',
+  ],
+  ollama: [
+    'llama3.2',
+    'llama3.1',
+    'llama3.1:8b',
+    'mistral',
+    'mixtral',
+    'codellama',
+    'phi3',
+    'gemma2:2b',
+    'qwen2.5',
+  ],
+  ollama_cloud: [
+    'llama3.2',
+    'llama3.1',
+    'llama3.1:8b',
+    'mistral',
+    'mixtral',
+    'codellama',
+    'phi3',
+    'gemma2:2b',
+    'qwen2.5',
+  ],
+  grok: [
+    'grok-2',
+    'grok-2-mini',
+    'grok-4',
+    'grok-4.1-fast',
+  ],
+}
+
+export function getModelsForProvider(provider: string): string[] {
+  return MODELS_BY_PROVIDER[provider] ?? MODELS_BY_PROVIDER.openai
+}
+
+export const PROVIDER_LABELS: Record<string, string> = {
+  openai: 'OpenAI',
+  anthropic: 'Anthropic',
+  google: 'Google (Gemini)',
+  ollama: 'Ollama (local)',
+  ollama_cloud: 'Ollama Cloud',
+  grok: 'Grok (xAI)',
+}

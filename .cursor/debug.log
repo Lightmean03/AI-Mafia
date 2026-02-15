@@ -1,0 +1,90 @@
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":false,"hasTts":true,"ttsInit":false,"dLen":0,"eLen":0,"prevD":0,"prevE":0},"timestamp":1771117388523,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":0,"e":1,"lastD":0,"lastE":0,"willUpdateD":false,"willUpdateE":true},"timestamp":1771117388532,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":false,"dLen":0,"eLen":1,"prevD":0,"prevE":1},"timestamp":1771117388532,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsInit","message":"tts first run skip","data":{"dLen":0,"eLen":1},"timestamp":1771117388532,"hypothesisId":"H5"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":0,"e":5,"lastD":0,"lastE":1,"willUpdateD":false,"willUpdateE":true},"timestamp":1771117396554,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":5,"dLen":0,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117396554,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":5,"prevD":0,"prevE":5},"timestamp":1771117396554,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":1,"e":5,"lastD":0,"lastE":5,"willUpdateD":true,"willUpdateE":false},"timestamp":1771117402056,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":1,"eLen":5,"prevD":1,"prevE":5},"timestamp":1771117402056,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":1,"prevE":5,"dLen":1,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117402056,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":2,"e":5,"lastD":1,"lastE":5,"willUpdateD":true,"willUpdateE":false},"timestamp":1771117407917,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":2,"eLen":5,"prevD":2,"prevE":5},"timestamp":1771117407918,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":2,"prevE":5,"dLen":2,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117407918,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":false,"ttsInit":true,"dLen":2,"eLen":5,"prevD":2,"prevE":5},"timestamp":1771117411676,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":2,"eLen":5,"prevD":2,"prevE":5},"timestamp":1771117413565,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":2,"prevE":5,"dLen":2,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117413565,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":3,"e":5,"lastD":2,"lastE":5,"willUpdateD":true,"willUpdateE":false},"timestamp":1771117414050,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":3,"eLen":5,"prevD":3,"prevE":5},"timestamp":1771117414050,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":3,"prevE":5,"dLen":3,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117414050,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":4,"e":5,"lastD":3,"lastE":5,"willUpdateD":true,"willUpdateE":false},"timestamp":1771117417061,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":4,"prevE":5,"dLen":4,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117417061,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":4,"eLen":5,"prevD":4,"prevE":5},"timestamp":1771117417061,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":false,"hasTts":true,"ttsInit":false,"dLen":0,"eLen":0,"prevD":0,"prevE":0},"timestamp":1771117459227,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":0,"e":1,"lastD":0,"lastE":0,"willUpdateD":false,"willUpdateE":true},"timestamp":1771117459236,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsInit","message":"tts first run skip","data":{"dLen":0,"eLen":1},"timestamp":1771117459236,"hypothesisId":"H5"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":false,"dLen":0,"eLen":1,"prevD":0,"prevE":1},"timestamp":1771117459236,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":0,"e":4,"lastD":0,"lastE":1,"willUpdateD":false,"willUpdateE":true},"timestamp":1771117464458,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":4,"prevD":0,"prevE":4},"timestamp":1771117464459,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":4,"dLen":0,"eLen":4,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117464459,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":1,"e":4,"lastD":0,"lastE":4,"willUpdateD":true,"willUpdateE":false},"timestamp":1771117469639,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":1,"prevE":4,"dLen":1,"eLen":4,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117469639,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":1,"eLen":4,"prevD":1,"prevE":4},"timestamp":1771117469639,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":false,"hasTts":true,"ttsInit":false,"dLen":0,"eLen":0,"prevD":0,"prevE":0},"timestamp":1771117558987,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":false,"dLen":0,"eLen":1,"prevD":0,"prevE":1},"timestamp":1771117558995,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":0,"e":1,"lastD":0,"lastE":0,"willUpdateD":false,"willUpdateE":true},"timestamp":1771117558995,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsInit","message":"tts first run skip","data":{"dLen":0,"eLen":1},"timestamp":1771117558995,"hypothesisId":"H5"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":0,"e":5,"lastD":0,"lastE":1,"willUpdateD":false,"willUpdateE":true},"timestamp":1771117564050,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":5,"prevD":0,"prevE":5},"timestamp":1771117564050,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":5,"dLen":0,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117564050,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":5,"prevD":0,"prevE":5},"timestamp":1771117564587,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":5,"dLen":0,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117564588,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":5,"prevD":0,"prevE":5},"timestamp":1771117565351,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":5,"dLen":0,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117565351,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":5,"prevD":0,"prevE":5},"timestamp":1771117565624,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":5,"dLen":0,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117565624,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":5,"prevD":0,"prevE":5},"timestamp":1771117565799,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":5,"dLen":0,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117565799,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":5,"prevD":0,"prevE":5},"timestamp":1771117565984,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":5,"dLen":0,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117565984,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":5,"prevD":0,"prevE":5},"timestamp":1771117566156,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":5,"dLen":0,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117566156,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":5,"prevD":0,"prevE":5},"timestamp":1771117566334,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":5,"dLen":0,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117566335,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":5,"prevD":0,"prevE":5},"timestamp":1771117566528,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":5,"dLen":0,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117566528,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":5,"prevD":0,"prevE":5},"timestamp":1771117566691,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":5,"dLen":0,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117566691,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":1,"e":5,"lastD":0,"lastE":5,"willUpdateD":true,"willUpdateE":false},"timestamp":1771117569631,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":1,"eLen":5,"prevD":1,"prevE":5},"timestamp":1771117569631,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":1,"prevE":5,"dLen":1,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117569631,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":false,"hasTts":true,"ttsInit":false,"dLen":0,"eLen":0,"prevD":0,"prevE":0},"timestamp":1771117572812,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":1,"e":4,"lastD":0,"lastE":0,"willUpdateD":true,"willUpdateE":true},"timestamp":1771117572820,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":false,"dLen":1,"eLen":4,"prevD":1,"prevE":4},"timestamp":1771117572820,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsInit","message":"tts first run skip","data":{"dLen":1,"eLen":4},"timestamp":1771117572820,"hypothesisId":"H5"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":false,"hasTts":true,"ttsInit":false,"dLen":0,"eLen":0,"prevD":0,"prevE":0},"timestamp":1771117574773,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":1,"e":5,"lastD":0,"lastE":0,"willUpdateD":true,"willUpdateE":true},"timestamp":1771117574778,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":false,"dLen":1,"eLen":5,"prevD":1,"prevE":5},"timestamp":1771117574778,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsInit","message":"tts first run skip","data":{"dLen":1,"eLen":5},"timestamp":1771117574778,"hypothesisId":"H5"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":false,"hasTts":false,"ttsInit":false,"dLen":0,"eLen":0,"prevD":0,"prevE":0},"timestamp":1771117618325,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":0,"e":1,"lastD":0,"lastE":0,"willUpdateD":false,"willUpdateE":true},"timestamp":1771117618330,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":false,"ttsInit":false,"dLen":0,"eLen":1,"prevD":0,"prevE":1},"timestamp":1771117618330,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":false,"dLen":0,"eLen":1,"prevD":0,"prevE":1},"timestamp":1771117619959,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsInit","message":"tts first run skip","data":{"dLen":0,"eLen":1},"timestamp":1771117619959,"hypothesisId":"H5"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":0,"e":5,"lastD":0,"lastE":1,"willUpdateD":false,"willUpdateE":true},"timestamp":1771117624263,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":5,"prevD":0,"prevE":5},"timestamp":1771117624263,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":5,"dLen":0,"eLen":5,"skip":true,"willSpeakD":false,"willSpeakE":false},"timestamp":1771117624263,"hypothesisId":"H1,H3"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":false,"hasTts":true,"ttsInit":false,"dLen":0,"eLen":0,"prevD":0,"prevE":0},"timestamp":1771117754119,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":0,"e":1,"lastD":0,"lastE":0,"willUpdateD":false,"willUpdateE":true},"timestamp":1771117754126,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":false,"dLen":0,"eLen":1,"prevD":0,"prevE":0},"timestamp":1771117754126,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsInit","message":"tts first run skip","data":{"dLen":0,"eLen":1},"timestamp":1771117754126,"hypothesisId":"H5"}
+{"location":"GameView.tsx:liveRegionEffect","message":"liveRegion effect ran","data":{"d":0,"e":4,"lastD":0,"lastE":1,"willUpdateD":false,"willUpdateE":true},"timestamp":1771117762091,"hypothesisId":"H1"}
+{"location":"GameView.tsx:ttsEffect","message":"tts effect ran","data":{"hasState":true,"hasTts":true,"ttsInit":true,"dLen":0,"eLen":4,"prevD":0,"prevE":1},"timestamp":1771117762091,"hypothesisId":"H1,H4,H5"}
+{"location":"GameView.tsx:ttsCheck","message":"tts length check","data":{"prevD":0,"prevE":1,"dLen":0,"eLen":4,"skip":false,"willSpeakD":false,"willSpeakE":true},"timestamp":1771117762091,"hypothesisId":"H1,H3"}
+{"location":"tts.ts:speak","message":"speak called","data":{"hasSpeech":true,"textLen":26},"timestamp":1771117762092,"hypothesisId":"H2"}
+{"location":"GameView.tsx:ttsLoopStart","message":"tts async loop start","data":{"fromD":0,"toD":0,"fromE":1,"toE":4},"timestamp":1771117762091,"hypothesisId":"H3"}
+{"location":"tts.ts:onend","message":"utterance end","data":{},"timestamp":1771117764664,"hypothesisId":"H2"}
+{"location":"tts.ts:speak","message":"speak called","data":{"hasSpeech":true,"textLen":37},"timestamp":1771117764664,"hypothesisId":"H2"}
+{"location":"tts.ts:onerror","message":"utterance error","data":{"error":"interrupted"},"timestamp":1771117765244,"hypothesisId":"H2"}
+{"location":"tts.ts:speak","message":"speak called","data":{"hasSpeech":true,"textLen":25},"timestamp":1771117765244,"hypothesisId":"H2"}
+{"location":"tts.ts:onend","message":"utterance end","data":{},"timestamp":1771117768247,"hypothesisId":"H2"}

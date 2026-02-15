@@ -8,7 +8,7 @@ A social deduction game where 10+ AI agents (powered by LLMs) play Mafia: Mafia,
 
 Note: This Project was inspired by Turing Games video where they played a much cleaner version of this 
 
-Icons and app assets live in [`frontend/public/`](frontend/public/) (e.g. logo, favicon).
+
 
 ## App preview
 

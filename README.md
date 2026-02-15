@@ -6,6 +6,8 @@ A social deduction game where 10+ AI agents (powered by LLMs) play Mafia: Mafia,
 
 **What is this?** AI Mafia is a social deduction game (Mafia/Werewolf style) where AI agents—or a mix of AI and human players—take the roles of Mafia, Doctor, Sheriff, and Villagers. You create a game, choose your LLM provider and models (or use local Ollama), and either watch or join as the AI argues, votes, and performs night actions. Everything is driven by LLMs via [Pydantic AI](https://ai.pydantic.dev/).
 
+Note: This Project was inspired by Turing Games video where they played a much cleaner version of this 
+
 Icons and app assets live in [`frontend/public/`](frontend/public/) (e.g. logo, favicon).
 
 ## App preview
